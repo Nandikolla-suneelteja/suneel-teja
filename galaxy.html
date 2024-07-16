@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #111;
+            justify-content: center;
+            align-items:center ;
+            display: flex;
+        }
+        #earth {
+            bottom: 30%;
+            width: 150px;
+            height: 150px;
+            background: url('https://web.archive.org/web/20150807125159if_/http://www.noirextreme.com/digital/Earth-Color4096.jpg');
+            border-radius: 50%;
+            animation: loading 5s infinite linear;
+            margin-top: 190px;
+            background-size: 610px; /* Adjust this value for the desired size */
+            box-shadow: inset 8px 36px 80px 36px rgb(0, 0, 0), inset -6px 0 12px 4px rgba(255, 255, 255, 0.3);
+            animation: rotate 12s infinite linear;
+        }
+        @keyframes rotate {
+    from {
+        background-position: 0px 0px;
+    }
+    to {
+        background-position: 610px 0px;
+    }
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform:rotate(360deg) ;
+    }
+
+    }
+
+    </style>
+</head>
+<body>
+    <div id="earth"></div>
+</body>
+</html>

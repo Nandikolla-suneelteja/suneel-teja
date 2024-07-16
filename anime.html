@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            display: flex;
+            background-color: black;
+            align-items: center;
+            justify-content: center;
+        }
+        .parent{
+            width: 100px;
+            height: 100px;
+            background-color: rgb(220, 22, 22);
+            border: solid rgb(255, 0, 98);
+            border-radius: 60%;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .child1{
+            height: 100px;
+            width: 100px;
+            background-color: rgb(38, 47, 177);
+            border-radius: 50%;
+            justify-content: start;
+            align-items: center;
+            position: absolute;
+            bottom: 40%;
+        }
+        @keyframes rotate{
+            from {
+                background-position: 0px 0px;
+            }
+            to {
+                background-position: 610px 0px;
+            }
+        }
+    </style>
+</head>
+<div class="parent"></div>
+<div class="child1"></div>
+
+<body>
+    
+</body>
+</html>

@@ -1,0 +1,258 @@
+.sunil{
+    border:2px solid black;
+    width: 900px;
+    height: 200px;
+    position: absolute;
+    top: 86%;
+    left: 10%;
+    background-color: black;
+}
+.a{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 110px;
+    position: absolute;
+    border-radius: 50%;
+    left:10%;
+    top: 4%;
+    background-color: skyblue;
+
+}
+.a1{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left:20%;
+    top: 1%;
+    background-color: skyblue;
+}
+.a2{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left:30%;
+    top: 3%;
+    background-color: skyblue;
+}
+.a3{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left:40%;
+    top: 3.9%;
+    background-color: skyblue;
+}.a4{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 65px;
+    top: 3.6%;
+    background-color: skyblue;
+}.a5{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 50%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+.a6{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 60%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+.a7{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 70%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+.a8{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 80%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+.a9{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 90%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+.a10{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 100%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+.a11{
+    border:2px solid skyblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 110%;
+    top: 2.5%;
+    background-color: skyblue;
+}
+    .sun{
+        border:1px solid hsl(43, 74%, 49%);
+        box-shadow: 15px 5px 30px goldenrod;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    left: 70%;
+    top: 10%;
+    background-color: goldenrod;
+    }
+.car{
+    border:2px solid rgb(121, 10, 10);
+    width: 70px;
+    height:40px;
+    position: absolute;
+    top: 80.5%;
+    left: 33.2%;
+    background-color: rgb(102, 10, 10);
+}
+.car2{
+    border:2px solid rgb(199, 13, 13);
+    width: 121px;
+    height:55px;
+    position: absolute;
+    top: 86.2%;
+    left: 30%;
+    background-color: rgb(199, 13, 13);
+}
+.l{
+    border:1px solid white;
+    width: 85px;
+    height: 10px;
+    position: absolute;
+    border-: 50%;
+    left: 54%;
+    top: 98%;
+    background-color: white;
+    }
+    .l1{
+        border:1px solid white;
+        width: 85px;
+        height: 10px;
+        position: absolute;
+        border-: 50%;
+        left: 72%;
+        top: 98%;
+        background-color: white;
+        }
+        .l2{
+            border:1px solid white;
+            width: 85px;
+            height: 10px;
+            position: absolute;
+            border-: 50%;
+            left: 90%;
+            top: 98%;
+            background-color: white;
+            }
+            .l3{
+                border:1px solid white;
+                width: 85px;
+                height: 10px;
+                position: absolute;
+                border-: 50%;
+                left: 110%;
+                top: 98%;
+                background-color: white;
+                }
+                .l4{
+                    border:1px solid white;
+                    width: 85px;
+                    height: 10px;
+                    position: absolute;
+                    border-: 50%;
+                    left: 38%;
+                    top: 98%;
+                    background-color: white;
+                    }
+                    .l5{
+                        border:1px solid white;
+                        width: 85px;
+                        height: 10px;
+                        position: absolute;
+                        border-: 50%;
+                        left: 20%;
+                        top: 98%;
+                        background-color: white;
+                        }
+                        .c{
+                            border:2px solid rgb(126, 126, 125);
+                            width: 40px;
+                            height: 37px;
+                            position: absolute;
+                            border-radius: 50%;
+                            top: 92%;
+                            left: 40.7%;
+                            background-color: rgb(40, 41, 41);
+                        }
+                        .c1{
+                            border:2px solid rgb(126, 126, 125);
+                            width: 40px;
+                            height: 37px;
+                            position: absolute;
+                            border-radius: 50%;
+                            top: 92%;
+                            left: 30.7%;
+                            background-color: rgb(40, 41, 41);
+                        }
+                        .k{
+                            border:2px solid rgb(1, 37, 37);
+                            width: 25px;
+                            height: 18px;
+                            position: absolute;
+                            border-radius: 50%;
+                            top: 86%;
+                            left: 44.1%;
+                            background-color: rgb(1, 37, 37);
+                        }
+                        .k1{
+                            border:2px solid rgb(1, 37, 37);
+                            width: 25px;
+                            height: 18px;
+                            position: absolute;
+                            border-radius: 50%;
+                            top: 88%;
+                            left: 44.2%;
+                            background-color: rgb(1, 37, 37);
+                        }
+                        
